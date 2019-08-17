@@ -3,6 +3,9 @@ Analyze macro trends, perform competition analysis
 
 <img style="width:100%;" src="datamapper.png">
 
+<img style="width:100%;" src="datamapper-link.png">
+
+
 To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
 
 Installation
