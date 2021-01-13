@@ -8,7 +8,7 @@ Analyze macro trends, perform competition analysis
 <img style="width:100%;" src="images/datamapper-feed.png">
 
 
-To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
+To learn more, check out [http://insightlake.com/datamapper.html](http://insightlake.com/dataexplorer.html)
 
 Installation
 ------
@@ -21,7 +21,7 @@ Installation
 
 License
 ------
-InsightLake Data Explorer is a commercial product but distributed to be used freely. Please contact contact@insightlake.com for details.
+InsightLake Trends is a commercial product but distributed to be used freely. Please contact contact@insightlake.com for details.
 
 Getting Help
 ----------
